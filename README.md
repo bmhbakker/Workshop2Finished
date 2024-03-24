@@ -58,7 +58,7 @@
     </ul>
   <b>(Check of dit werkt)</b>
   <br>
-   <h2><li>Blending in timeline/li></h2>
+   <h2><li>Blending in timeline</li></h2>
     <ul>
       <li>Sleep sommige virtual camera's in elkaar en kijk of deze blenden, des te meer je ze in elkaar sleept des te meer en langer</li>
     </ul>
