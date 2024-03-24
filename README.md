@@ -37,7 +37,7 @@
   <b>(TIP: Bij het enter en exit op de layer kan er logica worden toegepast om de shooting animatie van begin tot eind te laten lopen. Zie: StateMachineBehaviour)</b>
   <br>
   
-  <h2><li>Maak een nieuwe layer voor de looking animatie</li><h2>
+  <h2><li>Maak een nieuwe layer voor de looking animatie</li></h2>
   <ul>
     <li>Maak een mask die alleen het hoofd van het karakter gebruikt.</li>
     <li>Pas de mask op de nieuwe layer toe.</li>
